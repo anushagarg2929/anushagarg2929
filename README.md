@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushagarg2929&label=Profile%20views&color=0e75b6&style=flat" alt="anushagarg2929" /> </p>
 
-- 🔭 I’m currently working on **contact management system**
+- 🔭 I’m currently working on **App basic phrases**
 
-- 🌱 I’m currently learning **android development in a extensive way mainly using API's.**
+- 🌱 I’m currently learning **android development in a extensive way and web development.**
 
 - 👯 I’m looking to collaborate on **hackathons and general projects**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://anusha2929.blogspot.com/](https://anusha2929.blogspot.com/)
 
-- 💬 Ask me about **java, python, android Studio**
+- 💬 Ask me about **java, python, android Studio, html, css**
 
 - 📫 How to reach me **anushagarg2003@gmail.com**
 
