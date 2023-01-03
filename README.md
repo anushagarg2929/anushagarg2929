@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushagarg2929&label=Profile%20views&color=0e75b6&style=flat" alt="anushagarg2929" /> </p>
 
-- 🔭 I’m currently working on **App basic phrases**
+- 🔭 I’m currently working on **A gym website**
 
 - 🌱 I’m currently learning **android development in a extensive way and web development.**
 
