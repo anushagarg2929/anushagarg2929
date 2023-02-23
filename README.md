@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact **I also do graphic designing and video editing.**
 
+- 👩‍🍳 Competitive programming **my codechef profile and soon I will be on Codeforces as well.**[https://www.codechef.com/users/anushagarg206](https://www.codechef.com/users/anushagarg206)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anusha-garg-1342a1220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anusha-garg-1342a1220/" height="30" width="40" /></a>
